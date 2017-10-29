@@ -1,0 +1,10 @@
+Website for ACM Event Cat's Cradle
+
+Website name - Webguru
+
+Made By - Meghna Gupta & Param Mittal
+
+Made in HTML CSS JS BOOTSTRAP
+
+Note - It requires internet to download bootstrap cache initially from a cdn.
+Just click on index.html

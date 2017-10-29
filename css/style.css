@@ -1,0 +1,30 @@
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+* {
+    box-sizing: border-box;
+}
+.navbar
+{
+	background-color:#1B262E;
+    opacity: 0.75;
+}
+body
+{
+    background: url("../images/gears3.svg") no-repeat center fixed; 
+    background-size: cover;
+}
+.bandw
+{
+	-webkit-filter: grayscale(0%);filter: grayscale(0%);
+}
+.bandw:hover
+{
+	-webkit-filter: grayscale(100%);filter: grayscale(100%);
+}
+hr{
+    margin-left: 15%; 
+    margin-right: 15%;
+    border-top: 1px solid #DEDAD4;
+}
+
